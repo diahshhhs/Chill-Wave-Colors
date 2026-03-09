@@ -1,0 +1,247 @@
+[
+  {
+    "id": "1",
+    "name": "Desert Warmth",
+    "colors": [
+      "#D4A373",
+      "#8B4513",
+      "#F4E1C1"
+    ],
+    "mood": "Warm Retro",
+    "optimizedFor": [
+      "natural"
+    ],
+    "notes": "Great for sunset scenes"
+  },
+  {
+    "id": "2",
+    "name": "Ocean Fade",
+    "colors": [
+      "#264653",
+      "#2A9D8F"
+    ],
+    "mood": "Cool Coastal",
+    "optimizedFor": [
+      "white"
+    ],
+    "notes": "Works well for beach typography"
+  },
+  {
+    "id": "3",
+    "name": "Heritage Red",
+    "colors": [
+      "#9B2226",
+      "#AE8B70",
+      "#E9D5CA",
+      "#005F73"
+    ],
+    "mood": "Vintage Americana",
+    "optimizedFor": [
+      "granite"
+    ],
+    "notes": "Classic American flag vibes"
+  },
+  {
+    "id": "1773003202900",
+    "name": "Limed spruce & Tradewind",
+    "colors": [
+      "#36454f",
+      "#52adb0"
+    ],
+    "mood": "Cool Coastal",
+    "optimizedFor": [
+      "eucalyptus"
+    ],
+    "notes": ""
+  },
+  {
+    "id": "1773004547497",
+    "name": "CWT Faded Beach Neutral",
+    "colors": [
+      "#f5e8d3",
+      "#5da49d"
+    ],
+    "mood": "Faded Beach",
+    "optimizedFor": [
+      "black",
+      "navy",
+      "walnut"
+    ],
+    "notes": "Clean, small left-chest logos or subtle back prints feel intentional and premium. Works beautifully for signature logo pieces or minimalist City Series touches — the softness keeps it relaxed but put-together."
+  },
+  {
+    "id": "1773004704837",
+    "name": "CWT Cool Coastal Navy",
+    "colors": [
+      "#112537",
+      "#6cd2d5"
+    ],
+    "mood": "Cool Coastal",
+    "optimizedFor": [
+      "white",
+      "natural",
+      "black"
+    ],
+    "notes": "Clean small chest logos or large centered back prints feel timeless and intentional. Signature logo pieces or subtle motorsport lines shine."
+  },
+  {
+    "id": "1773005065501",
+    "name": "CWT Vintage Americana Navy",
+    "colors": [
+      "#cda536",
+      "#f5d15b",
+      "#d3d7bb",
+      "#0a1b59"
+    ],
+    "mood": "Vintage Americana",
+    "optimizedFor": [
+      "white",
+      "black",
+      "natural"
+    ],
+    "notes": "City-series landmarks or vintage racing graphics feel authentic and collected. Large back prints look premium."
+  },
+  {
+    "id": "1773005252136",
+    "name": "CWT Cool Coastal Green-Gray",
+    "colors": [
+      "#37454c",
+      "#5eb7af",
+      "#465261",
+      "#de9c66"
+    ],
+    "mood": "Cool Coastal",
+    "optimizedFor": [
+      "white",
+      "black",
+      "natural"
+    ],
+    "notes": "Muted sea-mist driftwood serenity — elevated coastal without trying. Excellent modern heritage coastal feel."
+  },
+  {
+    "id": "1773005485976",
+    "name": "CWT Classic Heritage Gray",
+    "colors": [
+      "#0a0707",
+      "#66c9da",
+      "#e5cdc1",
+      "#6bd0c1"
+    ],
+    "mood": "Classic American",
+    "optimizedFor": [
+      "white",
+      "natural",
+      "black"
+    ],
+    "notes": "Steady, reliable put-together — vintage workwear updated clean. Quiet confidence, no aging tricks."
+  },
+  {
+    "id": "1773005644691",
+    "name": "CWT Faded Beach Gray",
+    "colors": [
+      "#746d6d",
+      "#c2e5fd",
+      "#bee1fa",
+      "#b7edda"
+    ],
+    "mood": "Faded Beach",
+    "optimizedFor": [
+      "black",
+      "navy",
+      "walnut"
+    ],
+    "notes": "Soft sun-bleached coastal ease — relaxed but refined. Modern classic heritage without overstatement."
+  },
+  {
+    "id": "1773005859592",
+    "name": "CWT Earthy Minimal Green-Gray",
+    "colors": [
+      "#dae7f0",
+      "#2f4f4f",
+      "#e7e5cf"
+    ],
+    "mood": "Earthy Minimal",
+    "optimizedFor": [
+      "black",
+      "navy",
+      "walnut"
+    ],
+    "notes": "Warm, restrained organic depth — luxury in simplicity. Pure quiet confidence."
+  },
+  {
+    "id": "1773005979777",
+    "name": "CWT Warm Retro Taupe",
+    "colors": [
+      "#8d9f93",
+      "#444d59",
+      "#7e5200"
+    ],
+    "mood": "Warm Retro",
+    "optimizedFor": [
+      "white"
+    ],
+    "notes": "1970s screen-print warmth — nostalgic but crisp. Heritage aesthetic done modern."
+  },
+  {
+    "id": "1773006148867",
+    "name": "CWT Coastal Ralph Lauren Neutral",
+    "colors": [
+      "#f4f2ee",
+      "#31bdd6",
+      "#509392"
+    ],
+    "mood": "Coastal Ralph Lauren",
+    "optimizedFor": [
+      "black",
+      "navy",
+      "walnut"
+    ],
+    "notes": "Polished, low-key coastal heritage — understated wealth. Approachable premium."
+  },
+  {
+    "id": "1773006279445",
+    "name": "CWT Bold Contrast Navy",
+    "colors": [
+      "#ffdfc6",
+      "#323f50",
+      "#561b2c"
+    ],
+    "mood": "Bold Contrast",
+    "optimizedFor": [
+      "black",
+      "navy",
+      "white"
+    ],
+    "notes": "Sharp, confident depth — high-impact without aggression. Quiet power through contrast."
+  },
+  {
+    "id": "1773006427777",
+    "name": "CWT Warm Retro Ochre",
+    "colors": [
+      "#c48622",
+      "#424a5b",
+      "#31495c"
+    ],
+    "mood": "Warm Retro",
+    "optimizedFor": [
+      "white",
+      "natural"
+    ],
+    "notes": "Warm heritage glow, good for motorsport graphics"
+  },
+  {
+    "id": "1773006566690",
+    "name": "CWT Earthy Minimal Fawn",
+    "colors": [
+      "#714d36",
+      "#e3dcce",
+      "#f7cb51"
+    ],
+    "mood": "Earthy Minimal",
+    "optimizedFor": [
+      "black",
+      "navy"
+    ],
+    "notes": "Restrained warmth, ideal for signature logos on Natural/Granite."
+  }
+]
